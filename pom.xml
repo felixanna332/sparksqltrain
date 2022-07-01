@@ -15,7 +15,7 @@
         <scala.version>2.11.12</scala.version>
         <spark.version>2.4.3</spark.version>
         <hbase.version>1.2.0</hbase.version>
-        <kafka.version>0.10.0.1</kafka.version>
+        <kafka.version>0.10.2.2</kafka.version>
         <flink.version>1.9.2</flink.version>
         <scala.binary.version>2.11</scala.binary.version>
         <itext.version>5.5.13</itext.version>
